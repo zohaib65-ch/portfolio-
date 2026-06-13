@@ -1,0 +1,272 @@
+{
+  "projects": [
+    {
+      "id": "bizportal-crm",
+      "title": "BizPortal - Custom Client CRM",
+      "tagline": "Custom CRM platform that helps mid-sized businesses track pipelines, generate auto-invoices, and manage client communications.",
+      "category": "full-stack",
+      "categoryLabel": "Full Stack MERN",
+      "image": "https://picsum.photos/seed/crm-system/1200/800",
+      "stack": [
+        "React.js",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "ChartJS",
+        "TailwindCSS"
+      ],
+      "metrics": "+40% team sales efficiency & reduced billing tracking dispute rates to zero.",
+      "challenge": "The client spent 15+ hours weekly manual copy-pasting client emails into spreadsheets. They needed an automated central workspace matching MERN stack speed.",
+      "deliverables": [
+        "Responsive Kanban pipelines representing sales stages.",
+        "Asynchronous Node.js cron scheduler driving recurring automated email invoices.",
+        "Mongoose aggregate data indexes allowing multi-parameter aggregate reports in under 120ms.",
+        "Secure multi-tier Auth token validation logic preventing cross-tenant access."
+      ],
+      "githubUrl": "https://github.com",
+      "liveUrl": "https://picsum.photos"
+    },
+    {
+      "id": "swiftshop-saas",
+      "title": "SwiftShop - Multi-Vendor E-Commerce",
+      "tagline": "A fast multi-vendor storefront platform featuring server-side rendered categories, lightning fast cart logic, and advanced stripe webhooks.",
+      "category": "nextjs-saas",
+      "categoryLabel": "Next.js 15 / Stripe",
+      "image": "https://picsum.photos/seed/swiftshop/1200/800",
+      "stack": [
+        "Next.js (App Router)",
+        "Tailwind CSS",
+        "Redux",
+        "MongoDB",
+        "Stripe API"
+      ],
+      "metrics": "Under 1.2s page paint speed, resulting in average cart conversions boosting by 28%.",
+      "challenge": "E-commerce users leave on slower loads. Legacy client sites took 4.5+ seconds to paint products. They needed a high SEO score static/dynamic hybrided storefront.",
+      "deliverables": [
+        "Next.js Incremental Static Regeneration cache-building high-frequency store listings.",
+        "Optimized Next.js <Image> configuration utilizing no-referrer policies perfectly.",
+        "Stripe webhooks synchronizing live inventory levels across MongoDB databases instantly.",
+        "Advanced category custom filtering combining responsive client state and server routing."
+      ],
+      "githubUrl": "https://github.com",
+      "liveUrl": "https://picsum.photos"
+    },
+    {
+      "id": "tasksync-agile",
+      "title": "TaskSync - Real-Time Kanban",
+      "tagline": "Interactive team collaboration board where remote units can map agile tasks, collaborate in real time, and inspect velocities.",
+      "category": "frontend",
+      "categoryLabel": "Interactive UI",
+      "image": "https://picsum.photos/seed/kanban/1200/800",
+      "stack": [
+        "React",
+        "Zustand State",
+        "Framer Motion",
+        "MongoDB API",
+        "CSS Grid"
+      ],
+      "metrics": "Streamlined communication for 15+ daily teams, driving active task loops under budget bounds.",
+      "challenge": "Remote workflows get messy. Traditional spreadsheets fail at visual agile drag actions. Team requested an ultra-fluid viewport board with instant state.",
+      "deliverables": [
+        "Fluid HTML5 drag handlers backed by motion smooth physical drop guides.",
+        "Ultra-fast Zustand local storage slice synchronizers capturing instant offline edit saves.",
+        "Beautiful progress bars utilizing recharts visualizations displaying agile sprints.",
+        "Responsive vertical drawer layouts enabling micro task details edits."
+      ],
+      "githubUrl": "https://github.com",
+      "liveUrl": "https://picsum.photos"
+    },
+    {
+      "id": "prop-advisor",
+      "title": "PropAdvisor - Real Estate Engine",
+      "tagline": "Sleek custom dashboard enabling real estate agencies to lists properties, parse geospatial coordinates, and ingest customer leads.",
+      "category": "full-stack",
+      "categoryLabel": "Full-Stack Node",
+      "image": "https://picsum.photos/seed/real-estate/1200/800",
+      "stack": [
+        "React.js",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Cloudinary API"
+      ],
+      "metrics": "Over 800+ captured warm local property listings leads in the first active test month.",
+      "challenge": "Agency properties layout was chaotic and slow to load, frustrating mobile buyers. They wanted automated asset optimization and instant contact routing.",
+      "deliverables": [
+        "Responsive image rendering with automated sizing transformations via Cloudinary CDN integrations.",
+        "Optimized MongoDB geo-spatial queries retrieving regional listings under 45ms.",
+        "Custom clean contact wizards routing prospect profiles to admin panels immediately.",
+        "Complete analytical charts mapping regional pricing indexes for buyers."
+      ],
+      "githubUrl": "https://github.com",
+      "liveUrl": "https://picsum.photos"
+    }
+  ],
+  "skills": [
+    {
+      "id": "fe-1",
+      "name": "React / Next.js (App Router)",
+      "category": "frontend",
+      "level": 95,
+      "years": 4
+    },
+    {
+      "id": "fe-2",
+      "name": "TypeScript",
+      "category": "frontend",
+      "level": 90,
+      "years": 3
+    },
+    {
+      "id": "fe-3",
+      "name": "Tailwind CSS",
+      "category": "frontend",
+      "level": 98,
+      "years": 4
+    },
+    {
+      "id": "fe-4",
+      "name": "Redux Toolkit / Zustand",
+      "category": "frontend",
+      "level": 88,
+      "years": 3
+    },
+    {
+      "id": "fe-5",
+      "name": "Framer Motion (Animations)",
+      "category": "frontend",
+      "level": 85,
+      "years": 2
+    },
+    {
+      "id": "be-1",
+      "name": "Node.js",
+      "category": "backend",
+      "level": 92,
+      "years": 4
+    },
+    {
+      "id": "be-2",
+      "name": "Express.js",
+      "category": "backend",
+      "level": 94,
+      "years": 4
+    },
+    {
+      "id": "be-3",
+      "name": "REST APIs & Webhooks",
+      "category": "backend",
+      "level": 96,
+      "years": 4
+    },
+    {
+      "id": "be-4",
+      "name": "GraphQL / Apollo",
+      "category": "backend",
+      "level": 78,
+      "years": 2
+    },
+    {
+      "id": "be-5",
+      "name": "JWT, OAuth & Auth Security",
+      "category": "backend",
+      "level": 90,
+      "years": 3
+    },
+    {
+      "id": "db-1",
+      "name": "MongoDB / Mongoose ODM",
+      "category": "database",
+      "level": 93,
+      "years": 4
+    },
+    {
+      "id": "db-2",
+      "name": "PostgreSQL / Prisma",
+      "category": "database",
+      "level": 85,
+      "years": 2
+    },
+    {
+      "id": "db-3",
+      "name": "Redis Caching",
+      "category": "database",
+      "level": 80,
+      "years": 2
+    },
+    {
+      "id": "db-4",
+      "name": "Firebase Firestore",
+      "category": "database",
+      "level": 88,
+      "years": 3
+    },
+    {
+      "id": "wf-1",
+      "name": "Git & Multi-Branch Workflows",
+      "category": "workflow",
+      "level": 95,
+      "years": 5
+    },
+    {
+      "id": "wf-2",
+      "name": "Docker Containerization",
+      "category": "workflow",
+      "level": 80,
+      "years": 2
+    },
+    {
+      "id": "wf-3",
+      "name": "Linux Servers & SSH Control",
+      "category": "workflow",
+      "level": 82,
+      "years": 2
+    },
+    {
+      "id": "wf-4",
+      "name": "Vercel, Railway & Heroku Deploy",
+      "category": "workflow",
+      "level": 94,
+      "years": 4
+    },
+    {
+      "id": "wf-5",
+      "name": "Postman, Jest & Testing",
+      "category": "workflow",
+      "level": 88,
+      "years": 3
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "testimonial-1",
+      "name": "Sarah Jenkins",
+      "role": "SaaS Founder",
+      "company": "GrowthForge LLC",
+      "text": "Muhammad is an absolute master of his craft. He turned our slow Node.js app into a fast, highly optimized system in under three weeks. Database query response times plummeted from 3.2s to barely 120ms! Hiring him earned us an immediate 25% increase in active trial signups.",
+      "rating": 5,
+      "projectScope": "Custom SaaS API Refactoring",
+      "avatar": "https://picsum.photos/seed/sarah/150/150"
+    },
+    {
+      "id": "testimonial-2",
+      "name": "Alejandro Gomez",
+      "role": "CTO",
+      "company": "PropTech Venture Group",
+      "text": "Outstanding implementation of our Next.js web application. Muhammad configured everything perfectly—custom routing, secure dynamic metadata, optimized CDN asset transforms, and Stripe hooks. His attention to responsive layout details is second to none.",
+      "rating": 5,
+      "projectScope": "Next.js Frontend & Payment Engine",
+      "avatar": "https://picsum.photos/seed/alejandro/150/150"
+    },
+    {
+      "id": "testimonial-3",
+      "name": "David Miller",
+      "role": "Product Director",
+      "company": "Financier Automation",
+      "text": "Muhammad brought an extraordinary mix of technical skills and business communication. He provided detailed weekly video logs explaining his database schema, participated actively on Slack, and pushed code on time. I can't recommend him enough for any complex SaaS project.",
+      "rating": 5,
+      "projectScope": "Full-Stack Analytical Console",
+      "avatar": "https://picsum.photos/seed/david/150/150"
+    }
+  ]
+}
